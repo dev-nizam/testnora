@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "973052471343",
+    "project_id": "testnora-dd661",
+    "storage_bucket": "testnora-dd661.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973052471343:android:6f6e1e4b99fedb468efeda",
+        "android_client_info": {
+          "package_name": "com.example.testnura"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbA-EKqg5Y-9L6MrXABaxiuU4NXU2TMZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
